@@ -1,6 +1,6 @@
-# Seasons is a simple but usefull React Application. In this app you can see if is summer or winter depend
-# or your position (if you are on southern hemisphere or North Hemisphere). 
-# This app it was developed implementing some of the basic concepts of React js like: 
+Seasons is a simple but usefull React Application. In this app you can see if is summer or winter depend
+or your position (if you are on southern hemisphere or North Hemisphere). 
+This app it was developed implementing some of the basic concepts of React js like: 
 
 Class and functional components. 
 State. 
