@@ -1,3 +1,15 @@
+# Seasons is a simple but usefull React Application. In this app you can see if is summer or winter depend
+# or your position (if you are on southern hemisphere or North Hemisphere). 
+# This app it was developed implementing some of the basic concepts of React js like: 
+
+Class and functional components. 
+State. 
+Lifecicle components. 
+Default Props
+Hooks and others.
+
+I recomend you that after run the app press F12 button, go to console options, and set location available.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
